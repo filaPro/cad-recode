@@ -39,10 +39,11 @@ In this repo we provide simple inference demo. Install python packages according
 If you find this work useful for your research, please cite our paper:
 
 ```
-@article{rukhovich2024cadrecode,
-  title={CAD-Recode: Reverse Engineering CAD Code from Point Clouds},
-  author={Danila Rukhovich, Elona Dupont, Dimitrios Mallis, Kseniya Cherenkova, Anis Kacem, Djamila Aouada},
-  journal={arXiv preprint arXiv:2412.14042},
-  year={2024}
+@inproceedings{rukhovich2025cad,
+  title={Cad-recode: Reverse engineering cad code from point clouds},
+  author={Rukhovich, Danila and Dupont, Elona and Mallis, Dimitrios and Cherenkova, Kseniya and Kacem, Anis and Aouada, Djamila},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9801--9811},
+  year={2025}
 }
 ```
